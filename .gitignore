@@ -4,4 +4,4 @@ venv
 # PyCharm
 *.idea
 
-*.
+.vscode
