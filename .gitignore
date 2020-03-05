@@ -1,7 +1,6 @@
 # Virtualenv
 venv
 
-# PyCharm
-*.idea
-
-.vscode
+# Hidden files
+.*
+!.gitignore
